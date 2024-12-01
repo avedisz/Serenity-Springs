@@ -107,6 +107,9 @@
     color:#636AE8;
   }
 
+    main{
+      margin-top: 6rem;
+    }
   .image-container {
     display: flex;
     flex-direction: row;
