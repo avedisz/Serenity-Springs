@@ -241,7 +241,7 @@ main .button:hover:active {
 }
 
 
-@media (min-width:360px) and (max-width: 800px){
+@media (min-width:360px) and (max-width: 630px){
   .hide{
     display:none;
    }
@@ -493,55 +493,57 @@ text-align: justify;
 padding: 0rem 1rem 0rem 2rem;
 }
 .rectangle2 {
-display: flex;
- width: 100%;
- height: 12rem;
- background: #C6B6A6FF;
- align-items: center;
- flex-direction: column;
-}
-.rectangle2 #text4{
-  font-family: Quattrocento;
-  font-size: 2rem; 
-  line-height: 2rem; 
-  font-weight: 200; 
-  color: #171A1FFF; 
-  padding: 0rem;
-}
-.rectangle2 #subText4First3 {
-  padding: 1rem;
   display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  gap: 4rem;
-  padding: 0rem 1rem 0rem 1rem;
-
-}
-.rectangle2 #subText4First3 li {
-list-style: none;
-font-family: Quattrocento;
-font-size: 1.5rem; 
-line-height: 2.25rem; 
-font-weight: 400; 
-color: #171A1FFF;
-
-}
-.rectangle2 #subText4Last1 {
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: auto auto auto auto;
-
-}
-.rectangle2 #subText4Last1 li {
+   width: 100%;
+   height: 12rem;
+   background: #C6B6A6FF;
+   align-items: center;
+   flex-direction: column;
+  }
+  .rectangle2 #text4{
+    font-family: Quattrocento;
+    font-size: 2rem; 
+    line-height: 2rem; 
+    font-weight: 200; 
+    color: #171A1FFF; 
+    padding: 0rem;
+    margin: 1rem 0rem 0rem 0rem;
+  }
+  .rectangle2 #subText4First3 {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4rem;
+    padding: 0rem 1rem 0rem 1rem;
+    margin: 1.5rem 0rem 0rem 0rem;
+  
+  }
+  .rectangle2 #subText4First3 li {
   list-style: none;
-  font-family: Quattrocento; /* Heading */
+  font-family: Quattrocento;
   font-size: 1.5rem; 
   line-height: 2.25rem; 
   font-weight: 400; 
   color: #171A1FFF;
-}
+  
+  }
+  .rectangle2 #subText4Last1 {
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto auto auto auto;
+  
+  }
+  .rectangle2 #subText4Last1 li {
+    list-style: none;
+    font-family: Quattrocento; /* Heading */
+    font-size: 1.5rem; 
+    line-height: 2.25rem; 
+    font-weight: 400; 
+    color: #171A1FFF;
+  }
 .imgGroup{
 
   width: 100%;
@@ -598,7 +600,9 @@ color: #171A1FFF;
   
 }
 #smallRectangleText {
+  font-family: Quattrocento;
   text-align: center;
+  padding: 1rem;
 }
 .rectangle3{
 display: flex;
@@ -739,7 +743,7 @@ justify-content: space-around;
 
 }
 
-@media (min-width:360px) and (max-width: 800px){
+@media (min-width:360px) and (max-width: 630px){
   .hide{
     display:none;
    }
@@ -831,7 +835,7 @@ background-image: url('ARTICLES- PIC 1-Mobile.jpg');
   margin: 1rem auto auto auto;
 
  }
-}
+
 .rectangle2 #text4{
   font-family: Quattrocento;
   font-size: 0.9rem; 
@@ -916,6 +920,7 @@ padding: 0rem
     max-width: 20rem;
     font-size: 0.7rem;
     font-weight: 400;
+    padding: 1.5rem;
   }
   .rectangle3{
   width: 100%;
@@ -927,7 +932,7 @@ padding: 0rem
   .rectangle3 .text5{
     max-width: 20rem;
     height: 25rem; 
-    margin
+    margin:0;
   }
   .rectangle3 .text5 #textHeading2{
     font-family: Aboreto; 
