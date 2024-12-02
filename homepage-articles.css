@@ -228,6 +228,7 @@ margin: 3rem auto auto auto;
   border-radius: 0.75rem; 
 }
 main .button:hover {
+  cursor: pointer;
   color: #323931FF; 
   background: #DDE2DDFF; 
 }
