@@ -71,7 +71,7 @@ nav a{
   height:100vh;
   width:12rem;
   z-index:999;
-  background-color:rgba(198, 182, 166,0.5);
+  background-color:rgba(198, 182, 166,0.9);
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
@@ -335,7 +335,6 @@ span p{
     cursor: pointer;
     color:  #81A984FF;
     
-    
   }
 
   #top:hover{
@@ -456,13 +455,8 @@ span p{
     font-size:1rem;
     line-height: 1.4rem;
     text-align: center;
-    
-    
-    
-    
-
-  
   }
+
   span p{
     width:17rem;
     height:2rem;
@@ -481,8 +475,6 @@ span p{
     display: flex;
     flex-direction: column-reverse;  
     align-items: center;
-    
-   
   }
   .second{
     top:34rem;
@@ -506,18 +498,12 @@ span p{
     padding-right:0rem;
     margin:2rem 0rem 0rem 0rem;
     text-align: center;
-    
-   
-   
-
   }
 
   .img-right{
     margin:0rem 5.1rem 0 5rem;  
     width:17rem;
     height:18rem;
-    
-
   }
 
 
