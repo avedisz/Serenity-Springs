@@ -206,6 +206,14 @@
   #top:hover{
     color: rgb(57, 88, 59);
   }
+  footer{
+    margin: 0.5rem 0rem 0rem 0rem;
+    padding: 0.5rem;
+    font-family:Aboreto;
+    text-align: center;
+    font-size: smaller;
+    background-color: #C6B6A678;
+  }
 
   #p-s{
   
