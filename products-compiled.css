@@ -218,7 +218,6 @@
     text-align: justify;
     margin-bottom: 6rem;
     width: 20rem;
-    text-align-last: center;
   }
   
   .button-learn {
@@ -288,6 +287,7 @@
       line-height: 1.5rem;
       margin: 2rem;
       padding: 0;
+      text-align-last: center;
       }
     
     .MPtitle {
