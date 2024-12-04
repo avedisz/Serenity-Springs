@@ -179,10 +179,10 @@
       text-indent: 30px;
   }
   .story-title {
-    font-family: aboreto;
+      font-family: aboreto;
       font-size: 32px;
       font-weight: bold;
-      
+      margin-left: 1rem;
   }
   .left-column {
     width: 55%;
